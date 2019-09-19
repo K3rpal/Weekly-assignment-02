@@ -1,0 +1,43 @@
+table, td {
+	border: 1px solid black;
+		border-collapse: collapse;
+}
+
+td {
+	width: 60px;
+	height: 60px;
+	font-size: 30px;
+}
+
+
+.x_cell {
+	background-color: rgb(124, 252, 0);
+}}
+
+
+.o_cell {
+	background-color: rgb(250, 128, 114);
+}
+
+
+
+.reset_cell  {
+	background-color: transparent;
+}
+
+
+
+.prog_bar_border {
+	width: 300px;
+	height: 30px;
+	border: 5px solid black;
+}
+
+
+.prog_bar {
+	height: 30px;
+	width: 0%;
+	background: black;
+}
+
+
